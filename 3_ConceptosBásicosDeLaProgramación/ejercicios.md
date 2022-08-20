@@ -4,12 +4,12 @@ Realizar los siguientes algoritmos en javaScript
 ### Mostrar mensaje
 Para mostrar un mensaje en consola se utiliza; <span style="color:#F92672 ">console.log\(</span>mensaje <span style="color:#F92672 ">\);</span> o un mensaje como alerta; <span style="color:#F92672 ">alert\(</span>mensaje <span style="color:#F92672 ">\);</span>
 ```javaScript
-saludo = "Hola Mundo"
-console.log(saludo)
+saludo = "Hola Mundo";
+console.log(saludo);
 // salida: Hola mundo
-console.log("Hola mundo, otra vez")
+console.log("Hola mundo, otra vez"):
 // salida: Hola mundo, otra vez
-console.log(saludo,"otra vez")
+console.log(saludo,"otra vez");
 // salida: Hola mundo, otra vez
 
 // Con alert()
@@ -50,7 +50,7 @@ Ejemplo.
 <span style="color:#F92672 ">Si</span> a = 20 <span style="color:#F92672 ">Entonces</span> a es mayor a 10, <span style="color:#F92672 ">Sino</span> a es menor o igual a  10  
 ```javaScript
 if (a > 10) {
-    console.log("a es mayor a 10"):
+    console.log("a es mayor a 10");
 }else{
     console.log("a es menor o igual a 10");
 }
