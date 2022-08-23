@@ -84,7 +84,7 @@ if (a > 10) {
 1. Escribir un programa que lea un entero positivo, _n_, introducido por el usuario y después muestre en pantalla la suma de todos los enteros desde 1 hasta _n_ . La suma de los *n* primeros enteros positivos puede ser calculada de la siguiente forma:  $$suma = \frac{n(n+1)}{2}$$
     ```javaScript
     n = parseInt(prompt("Ingresa un número:"));
-    suma = (n*(n+1))/2;
+    suma = Math.pow((n*(n+1)),2);
     console.log(suma);
     alert(suma);
     ```
