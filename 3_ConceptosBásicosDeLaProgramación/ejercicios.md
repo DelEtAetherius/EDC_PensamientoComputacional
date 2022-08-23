@@ -75,7 +75,7 @@ if (a > 10) {
     console.log("Hola",nombre);
     alert("Hola "+nombre);
     ```
-1. Escribir un programa que muestre por pantalla el resultado de la siguiente operación aritmética: $$ \left(\frac{3+2}{2*5}\right)^2$$
+1. Escribir un programa que muestre por pantalla el resultado de la siguiente operación aritmética: $$\left(\frac{3+2}{2*5}\right)^2$$
     ```javaScript
     operacion = Math.pow(((3+2)/(2*5)),2);
     console.log(operacion);
