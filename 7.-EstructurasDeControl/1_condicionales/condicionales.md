@@ -3,7 +3,7 @@
 Escribir un programa que pregunte al usuario su edad y muestre por pantalla si es mayor de edad o no.
 
 ## Ejercicio 2
-Escribir un programa que almacene una <span style=\"color:#66D9EF\">contraseña</span> en una variable, pregunte al usuario por la <span style=\"color:#66D9EF\">contraseña</span> e imprima por pantalla si la <span style=\"color:#66D9EF\">contraseña</span> introducida por el usuario coincide con la guardada en la variable.
+Escribir un programa que almacene una __usurario__ y  __contraseña__  en una variable, pregunte el  __usurario__ y  __contraseña__ e imprima por pantalla si los datos introducidos por el usuario son correctos.
 
 ## Ejercicio 3
 Escribir un programa que pida al usuario dos números y muestre por pantalla su división. Si el divisor es cero el programa debe mostrar un error.
@@ -39,11 +39,12 @@ La pizzería Planeta ofrece pizzas vegetarianas y no vegetarianas a sus clientes
 * No vegetarianos: Peperoni, Jamón y Salmón.",
 
 Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o no, y en función de su respuesta le muestre un menú con los ingredientes disponibles para que elija. Solo se puede eligir un ingrediente además de la mozzarella y el tomate que están en todas la pizzas. Al final se debe mostrar por pantalla si la pizza elegida es vegetariana o no y todos los ingredientes que lleva.
+
 ## Ejercicio 9
 Escribir un programa que nos permita sumar, restar, multiplicar y dividir.
 * Como entrada solo serán dos números
 * Salida mostrara los dos numeros, la operación y el resultado
-    * Ejemplo : "5 * 6 = 30"
+    * Ejemplo :  5 * 6 = 30 
 * Tiene que contar con un menu:
     1. Sumar
     1. Restar
